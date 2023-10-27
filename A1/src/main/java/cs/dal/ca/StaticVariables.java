@@ -1,8 +1,8 @@
 package cs.dal.ca;
 
 public class StaticVariables {
-    public static final String USERDATA_FILE_PATH = "./A1/src/main/resources/user_records.txt";
-    public static final String DATABASE_FILE_PATH = "./A1/src/main/resources/database/";
+    public static final String USERDATA_FILE_PATH = "src/main/resources/user_records.txt";
+    public static final String DATABASE_FILE_PATH = "src/main/resources/database/";
     public static final String QUERY = "query";
     public static final String USER = "user";
     public static final String LOG_OUT = "log out";
